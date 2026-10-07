@@ -26,7 +26,7 @@ Este repositorio contiene el desarrollo completo de la guía de práctica **APE 
 ├── diagram.json                    # Configuración del circuito simulado en Wokwi (Parte C)
 ├── Informe_APE1.pdf                # Informe técnico final de la práctica
 └── README.md                       # Documentación del repositorio
-
+```
 ## ✔ Enlaces
 * **Codigo1_BlinkAPI:**
 * https://wokwi.com/projects/477197916801108993
