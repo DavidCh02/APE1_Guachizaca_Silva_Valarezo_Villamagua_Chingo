@@ -1,4 +1,4 @@
-# Practica de Laboratorio APE 1: Control de Periféricos por Registros de E/S en ATmega328P
+# Práctica de Laboratorio APE 1: Control de Periféricos por Registros de E/S en ATmega328P
 
 ## 📌 Descripción
 Este repositorio contiene el desarrollo completo de la guía de práctica **APE 1**, enfocada en el control de puertos de entrada/salida (E/S) del microcontrolador **ATmega328P** (Arduino UNO) mediante manipulación directa de registros (`DDRx`, `PORTx`, `PINx`), máscaras de bits, análisis temporal del ciclo de instrucción y revisión del código en lenguaje ensamblador AVR.
@@ -6,8 +6,11 @@ Este repositorio contiene el desarrollo completo de la guía de práctica **APE 
 ---
 
 ## 👥 Integrantes
-* **Cristopher David Chingo Rivera**
-* *(Agrega aquí los nombres y apellidos de tus compañeros de grupo)*
+* **Santiago Villamagua**
+* **Mauricio Guachizaca**
+* **Mateo Silva**
+* **María Valarezo**
+* **Cristopher Chingo**
 
 ---
 
